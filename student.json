@@ -1,0 +1,20 @@
+{
+    "s12": {
+        "name": "vishal",
+        "department": "cse",
+        "marks": {
+            "Python": 56.0,
+            "Maths": 76.0,
+            "DBMS": 34.0
+        }
+    },
+    "s2": {
+        "name": "amit",
+        "department": "cse",
+        "marks": {
+            "Python": 45.0,
+            "Maths": 65.0,
+            "DBMS": 85.0
+        }
+    }
+}

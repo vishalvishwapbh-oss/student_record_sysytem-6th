@@ -1,0 +1,5 @@
+2026-11-01 17:05:13 - Student added: s2
+2026-11-01 17:05:45 - Student records exported to CSV
+This is a write() demonstration.
+This is first line using writelines().
+This is second line using writelines().
